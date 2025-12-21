@@ -55,7 +55,7 @@ It was originally designed for Standoff 2 automation but has been intentionally 
 
 
 **Important:**  
-- Originally inspired by Standoff 2’s UI for educational purposes only.  
+- Originally made for educational purposes only.  
 - The code is **non-functional** due to dynamic visual effects (particles, animations).  
 - This project is provided **solely for learning and historical reference**.
 
