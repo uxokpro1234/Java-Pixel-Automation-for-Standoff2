@@ -64,5 +64,5 @@ It was originally designed for Standoff 2 automation but has been intentionally 
 - Dragon6555
 
 ## Notes
-- Do **not** attempt to use this in live applications or games.  
+- Do **not** attempt to use this in live applications or games. It wouldnt work anyway.
 - Coordinates, colors, and automation logic are specific to the original experiment and may **cause unintended behavior**.
