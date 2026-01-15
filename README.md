@@ -1,6 +1,7 @@
 # Java-Pixel-Automation-for-Standoff2
 This repository contains a **legacy experiment** using Java's `Robot` class to automate UI interactions based on pixel colors.
 It was originally designed for Standoff 2 automation but has been intentionally disabled due to changes in the game's UI (particles) and is provided solely for educational purposes.
+<br>
 ```java
         Thread thread2 = new Thread(() -> {
             System.out.println("Main loaded...");
@@ -52,16 +53,20 @@ It was originally designed for Standoff 2 automation but has been intentionally 
                 }}
         });
 ```
-
+<br>
 
 **Important:**  
 - Originally made for educational purposes only.  
 - The code is **non-functional** due to dynamic visual effects (particles, animations).  
 - This project is provided **solely for learning and historical reference**.
 
+<br>
+
 ## Authors
 - uxokpro1234
 - Dragon6555
+
+<br>
 
 ## Notes
 - Do **not** attempt to use this in live applications or games.  
